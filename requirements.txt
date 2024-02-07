@@ -1,0 +1,15 @@
+colour==0.1.5
+cvxpy
+cycler==0.10.0
+numpy
+pandas
+plotly==2.2.3
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2017.3
+requests==2.18.4
+scipy
+scikit-learn
+six
+tqdm
+zipline
